@@ -830,6 +830,11 @@ h3,
 .fl-theme-uio-by .twitter-feed-group a.twitter-follow-button,
 .fl-theme-uio-bw .twitter-feed-group a.twitter-follow-button { background-image: url('images/news-tweet/tweet-black.png'); }
 
+.fl-theme-uio-wb .twitter-feed-group a.twitter-follow-button:hover, .fl-theme-uio-wb .twitter-feed-group a.twitter-follow-button:focus,
+.fl-theme-uio-yb .twitter-feed-group a.twitter-follow-button:hover, .fl-theme-uio-yb .twitter-feed-group a.twitter-follow-button:focus { background-image: url('images/news-tweet/tweet-black.png'); }
+.fl-theme-uio-bw .twitter-feed-group a.twitter-follow-button:hover, .fl-theme-uio-bw .twitter-feed-group a.twitter-follow-button:focus { background-image: url('images/news-tweet/tweet-white.png'); }
+.fl-theme-uio-by .twitter-feed-group a.twitter-follow-button:hover, .fl-theme-uio-by .twitter-feed-group a.twitter-follow-button:focus { background-image: url('images/news-tweet/tweet-yellow.png'); }
+
 .twitter-feed-group ul {
     margin: 0px;
 }
